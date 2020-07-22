@@ -1,14 +1,14 @@
 # TeoSQL - Curso de SQL do zero!!
 
-Curso de SQl voltado a análise de dados e geração de relatório para Business Analytics e Data Analytics. Nossos encontros serão sempre às 20hrs nas terças e quintas: Twitch - [TeoMeWhy](https://www.twitch.tv/teomewhy)
+Curso de SQL voltado à análise de dados e geração de relatório para Business Analytics e Data Analytics. Nossos encontros serão sempre às 20hrs nas terças e quintas: Twitch - [TeoMeWhy](https://www.twitch.tv/teomewhy)
 
 ## Dados
 
-Vamos utilizar os dados das Olist para realizar nossas consultas e aprendizado. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. Os dados da olist podem ser obtidos [aqui](https://drive.google.com/file/d/1_ox1a8Khq0kuz8_4acr2ajq9CIkUdoKp/view?usp=sharing).
+Vamos utilizar os dados da empresa Olist para realizar nossas consultas e aprendizado. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. Os dados podem ser obtidos [aqui](https://drive.google.com/file/d/1_ox1a8Khq0kuz8_4acr2ajq9CIkUdoKp/view?usp=sharing).
 
 ## Ferramentas
 
-Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de tambem fazer uso do [SQLite Studio](https://sqlitestudio.pl/).
+Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fazer uso do [SQLite Studio](https://sqlitestudio.pl/).
 
 ## Cronograma
 

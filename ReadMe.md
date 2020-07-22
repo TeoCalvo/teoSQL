@@ -1,6 +1,6 @@
 # TeoSQL - Curso de SQL do zero!!
 
-Curso de SQl voltado a análise de dados e geração de relatório para Business Analytics e Data Analytics.
+Curso de SQl voltado a análise de dados e geração de relatório para Business Analytics e Data Analytics. Nossos encontros serão sempre as 20hrs na Twitch - [TeoMeWhy](https://www.twitch.tv/teomewhy)
 
 ## Dados
 

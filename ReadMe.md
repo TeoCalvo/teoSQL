@@ -16,9 +16,6 @@ Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes ban
 
 <img src="https://i.imgur.com/HRhd2Y0.png" alt="" width="680">
 
-
-
-
 ## Ferramentas
 
 Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fazer uso do [SQLite Studio](https://sqlitestudio.pl/).
@@ -36,7 +33,7 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fa
 | 07 | CREATE TABLE, VIEWS | 13/08 |
 | 08 | Dúvidas e outros tópicos | 18/08 |
 
-### Episódio 01
+### [Episódio 01](https://github.com/TeoCalvo/teoSQL/blob/master/ep01/conceitos.md)
 
 Primeira aula de SQL, apresentando os bancos de dados, aplicações e ferramentas para uso. Começamos com o ```SELECT```, realizando as consultas mais simples em nosso banco de dados da Olist. Ainda nesta aula, entenderemos como realizamos filtros em nossos dados com o comando ```WHERE```.
 

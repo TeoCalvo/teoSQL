@@ -70,3 +70,6 @@ Leia-se Selecione (```SELECT```) ```nome```, ```idade``` e ```cidade``` da (```F
 | Lara | 27 | são josé dos campos |
 | Kira | 3 | são paulo |
 | Zaha | 2 | são josé dos campos |
+
+A partir de agora, vamos para os dados reais fazer queries e tirar insights!!
+HANDS-ON!!!

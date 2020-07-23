@@ -4,13 +4,20 @@ Curso de SQL voltado à análise de dados e geração de relatório para Busines
 
 O conteúdo deste curso foi influenciado e pautado pelo livro _Introdução à Linguagem SQL_ de Thomas Nield (O`Reilly). Copyright 2016 Thomas Nield, 978-1-49-19-3861-4. Recomendamos fortemente a leitura deste livro, principalmente para os iniciantes, podendo assim aproveitar melhor o conteúdo ao longo das aulas.
 
-Deixamos claro desde o início que este material é totalmente gratuíto e não pretendemos ter retorno financeiro a partir deste. Somos orientados em disseminar conhecimento, possibilitanto que o maior número de pessoas possam ter acessá-lo e aprender com ele. Sinta-se livre para compartilhar e divulgar este material de forma gratuíta, mas ressaltamos a **proibição** da comercialização deste material, sob a licensa [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
+Deixamos claro desde o início que este material é totalmente gratuíto e não pretendemos ter retorno financeiro a partir deste. Somos orientados em disseminar conhecimento, possibilitanto que o maior número de pessoas possam acessá-lo e aprender com ele. Sinta-se livre para compartilhar e divulgar este material de forma gratuíta, mas ressaltamos a **proibição** da comercialização deste material, sob a licensa [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" width="200">
 
 ## Dados
 
 Vamos utilizar os dados da empresa Olist para realizar nossas consultas e aprendizado. Os dados são de uma empresa real, que trabalha no ramo de varejo com market places. Os dados podem ser obtidos [aqui](https://drive.google.com/file/d/1_ox1a8Khq0kuz8_4acr2ajq9CIkUdoKp/view?usp=sharing).
+
+Ainda, tem-se o seguinte esquema dos relacionamentos entre as tabelas destes banco de dados
+
+<img src="https://i.imgur.com/HRhd2Y0.png" alt="" width="680">
+
+
+
 
 ## Ferramentas
 

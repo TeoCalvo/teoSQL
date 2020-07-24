@@ -73,3 +73,13 @@ Leia-se Selecione (```SELECT```) ```nome```, ```idade``` e ```cidade``` da (```F
 
 A partir de agora, vamos para os dados reais fazer queries e tirar insights!!
 HANDS-ON!!!
+
+## Tarefa de casa!!
+
+Ex1: Quantos produtos temos da categoria 'artes'?
+
+Ex2: Quantos produtos tem mais de 5 litros?
+
+Ex3: Crie uma coluna nova que contenha a informação de volume em m3
+
+Ex4: Quantos produtos de 'beleza_saude' com menos de 1 litro?

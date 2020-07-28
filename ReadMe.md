@@ -37,7 +37,7 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fa
 
 Primeira aula de SQL, apresentando os bancos de dados, aplicações e ferramentas para uso. Começamos com o ```SELECT```, realizando as consultas mais simples em nosso banco de dados da Olist. Ainda nesta aula, entenderemos como realizamos filtros em nossos dados com o comando ```WHERE```.
 
-### Episódio 02
+### [Episódio 02](https://github.com/TeoCalvo/teoSQL/blob/master/ep02/conceitos.md)
 
 Como já aprendemos a fazer as queries mais simples, agora vamos entender como agrupar (agregar) dados!! O uso do ```GROUP BY``` tem este propósito. Também podemos ordernar o resultado das consultas por meio de um campo especificado, ```ORDER BY```. Agora, como podemos filtrar o resultado de um consulta sem precisar gerar outra consulta a partir do resultado de uma consulta anterior? ```HAVING``` nos ajudará com isso!
 

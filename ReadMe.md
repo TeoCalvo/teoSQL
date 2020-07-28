@@ -22,16 +22,16 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fa
 
 ## Cronograma
 
-| Epsódio | Tema | Data|
-| ------- | ---- | ----|
-| 01 | Introdução, SELECT, WHERE | 23/07 |
-| 02 | GROUP BY, ORDER BY, HAVING | 28/07 |
-| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 30/07 |
-| 04 | JOIN's | 04/08 |
-| 05 | SUBQUERIES | 06/08 |
-| 06 | WINDOW FUNCTIONS | 11/08 |
-| 07 | CREATE TABLE, VIEWS | 13/08 |
-| 08 | Dúvidas e outros tópicos | 18/08 |
+| Epsódio | Tema | Data | Vídeo |
+| ------- | ---- | ----| --- |
+| 01 | Introdução, SELECT, WHERE | 23/07 | [Twitch](https://www.twitch.tv/videos/689312999) |
+| 02 | GROUP BY, ORDER BY, HAVING | 28/07 | |
+| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 30/07 | |
+| 04 | JOIN's | 04/08 | |
+| 05 | SUBQUERIES | 06/08 | |
+| 06 | WINDOW FUNCTIONS | 11/08 | |
+| 07 | CREATE TABLE, VIEWS | 13/08 | |
+| 08 | Dúvidas e outros tópicos | 18/08 | |
 
 ### [Episódio 01](https://github.com/TeoCalvo/teoSQL/blob/master/ep01/conceitos.md)
 

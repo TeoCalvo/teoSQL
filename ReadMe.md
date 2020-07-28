@@ -1,10 +1,10 @@
 # TeoSQL - Curso de SQL do zero!!
 
-Curso de SQL voltado à análise de dados e geração de relatório para Business Analytics e Data Analytics. Nossos encontros serão sempre às 20hrs nas terças e quintas: Twitch - [TeoMeWhy](https://www.twitch.tv/teomewhy).
+Curso de SQL voltado à análise de dados e geração de relatórios para Business Analytics e Data Analytics. Nossos encontros serão sempre às 20hrs nas terças e quintas: Twitch - [TeoMeWhy](https://www.twitch.tv/teomewhy).
 
 O conteúdo deste curso foi influenciado e pautado pelo livro _Introdução à Linguagem SQL_ de Thomas Nield (O`Reilly). Copyright 2016 Thomas Nield, 978-1-49-19-3861-4. Recomendamos fortemente a leitura deste livro, principalmente para os iniciantes, podendo assim aproveitar melhor o conteúdo ao longo das aulas.
 
-Deixamos claro desde o início que este material é totalmente gratuíto e não pretendemos ter retorno financeiro a partir deste. Somos orientados em disseminar conhecimento, possibilitanto que o maior número de pessoas possam acessá-lo e aprender com ele. Sinta-se livre para compartilhar e divulgar este material de forma gratuíta, mas ressaltamos a **proibição** da comercialização deste material, sob a licensa [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
+Deixamos claro desde o início que este material é totalmente gratuíto e não pretendemos ter retorno financeiro a partir deste. Somos orientados em disseminar conhecimento, possibilitanto que o maior número de pessoas possam acessá-lo e aprender com ele. Sinta-se livre para compartilhar e divulgar este material de forma gratuíta, mas ressaltamos a **proibição** da comercialização deste material, sob a licença [_Creative Commons BY-NC-SA 3.0 BR_](https://creativecommons.org/licenses/by-nc-sa/3.0/br/).
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="" width="200">
 

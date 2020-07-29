@@ -26,3 +26,13 @@ Agora, gostaríamos de realizar consultas nesta tabela para descobrir algumas es
 Apresentamos então as funções: ```MIN()```, ```AVG()```, ```SUM()```, ```MAX```, ```COUNT()``` e ```DISTINCT```. para conferir a documentação dessas funções, [clique aqui](https://www.sqlite.org/lang_aggfunc.html).
 
 E se quisermos tirar essas estatísticas em cada ```cidade_atual``` ou ```uf_atual```, como faríamos?
+
+## Tarefa!!
+
+Ex1. Faça uma query que apresente o tamanho médio, máximo e mínimo da descrição do objeto por categoria
+
+Ex2. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria
+
+Ex4. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria. Considere apenas os objetos que tenham a descrição maior que 50.
+
+Ex5. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria. Considere apenas os objetos que tenham a descrição maior que 50. Exiba apenas as categorias com tamanho médio de descrição do objeto com 100 caracteres.

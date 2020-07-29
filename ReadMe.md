@@ -22,7 +22,7 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fa
 
 ## Cronograma
 
-| Epsódio | Tema | Data | Vídeo |
+| Episódio | Tema | Data | Vídeo |
 | ------- | ---- | ----| --- |
 | 01 | Introdução, SELECT, WHERE | 23/07 | [Twitch](https://www.twitch.tv/videos/689312999) |
 | 02 | GROUP BY, ORDER BY, HAVING | 28/07 | |

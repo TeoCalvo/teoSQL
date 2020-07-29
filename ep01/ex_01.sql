@@ -11,6 +11,6 @@ SELECT product_id,
        product_width_cm
   FROM tb_products
 
-where   product_category_name = 'artes'
+where product_category_name = 'artes'
 -- 55 linhas
 ;

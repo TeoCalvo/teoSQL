@@ -35,4 +35,4 @@ Ex2. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome d
 
 Ex4. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria. Considere apenas os objetos que tenham a descrição maior que 50.
 
-Ex5. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria. Considere apenas os objetos que tenham a descrição maior que 50. Exiba apenas as categorias com tamanho médio de descrição do objeto com 100 caracteres.
+Ex5. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria. Considere apenas os objetos que tenham a descrição maior que 50. Exiba apenas as categorias com tamanho médio de descrição do objeto maior que 100 caracteres.

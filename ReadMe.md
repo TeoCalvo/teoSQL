@@ -26,9 +26,9 @@ Para facilitar o aprendizado, vamos utilizar o SGBD SQLite3. Além de também fa
 | ------- | ---- | ----| --- |
 | 01 | Introdução, SELECT, WHERE | 23/07 | [Twitch](https://www.twitch.tv/videos/689312999) |
 | 02 | GROUP BY, ORDER BY, HAVING | 28/07 | [Twitch](https://www.twitch.tv/videos/695248512) |
-| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 30/07 | [Twitch](https://www.twitch.tv/videos/695694133) |
-| 04 | JOIN's | 04/08 | [Twitch](https://www.twitch.tv/videos/700557649) |
-| 05 | SUBQUERIES | 06/08 | [Twitch](https://www.twitch.tv/videos/702569435) |
+| 03 | CASE, ISNULL, COALESCE, DISTINCT, COUNT, AVG... | 30/07 | [Twitch](https://www.twitch.tv/videos/704130093) |
+| 04 | JOIN's | 04/08 | [Twitch](https://www.twitch.tv/videos/704172105) |
+| 05 | SUBQUERIES | 06/08 | [Twitch](https://www.twitch.tv/videos/704177890) |
 | 06 | WINDOW FUNCTIONS | 11/08 | |
 | 07 | CREATE TABLE, VIEWS | 13/08 | |
 | 08 | Dúvidas e outros tópicos | 18/08 | |
